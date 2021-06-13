@@ -1,4 +1,4 @@
--- Cleaning Dta in SQL Queries
+-- Cleaning Data in SQL Queries
 
 
 SELECT *
